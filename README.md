@@ -60,4 +60,4 @@ The dataset contains car sales records including:
 - Sale Date
 
 Screenshot / Demo:
-Example: [Dashboard Preview] 
+Example: [Dashboard Preview] https://github.com/ChethanShelavanthar/Car-Sales-Dashboard/blob/main/Car%20Sales%20Dashboard.png

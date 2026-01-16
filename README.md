@@ -59,5 +59,5 @@ The dataset contains car sales records including:
 - Engine Type  
 - Sale Date
 
-Example:
-Screenshot / Demo
+Screenshot / Demo:
+Example: [Dashboard Preview] 
